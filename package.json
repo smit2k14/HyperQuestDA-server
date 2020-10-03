@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server component of HyperQuest for DA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smit2k14/HyperQuestDA-server.git"
+  },
+  "author": "Smit Shah <smir2k14@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smit2k14/HyperQuestDA-server/issues"
+  },
+  "homepage": "https://github.com/smit2k14/HyperQuestDA-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
+    "mongoose": "^5.10.7",
+    "morgan": "^1.10.0"
+  }
+}
