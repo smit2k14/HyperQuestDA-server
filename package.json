@@ -18,7 +18,7 @@
   "homepage": "https://github.com/smit2k14/HyperQuestDA-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^4.1.1",
     "mongoose": "^5.10.7",
     "morgan": "^1.10.0",
